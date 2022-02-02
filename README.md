@@ -1,6 +1,6 @@
 # data-structures-and-algorithms
 
-Collage course with the subject of data structures and algorithms. Done in C language
+Collage course - Data structures and algorithms. Done in C.
 
 Tasks:
 
