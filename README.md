@@ -1,4 +1,4 @@
-# Data structures and algorithms
+# Data Structures and Algorithms 
 
 Collage course - Data structures and algorithms. Done in C.
 
